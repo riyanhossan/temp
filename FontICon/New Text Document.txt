@@ -1,0 +1,18 @@
+ICON: (font)
+
+Font Awesome.
+
+www.fontawesome.com
+
+1) File download
+2) Using CDN (content delivery network)
+
+	https://cdnjs.com/
+
+
+CSS Fonts:
+
+https://fonts.google.com/
+https://github.com/shafiqulislamcse
+
+
