@@ -1,0 +1,15 @@
+.shapes{
+	height: 250px;
+	width: 300px;
+	background-color: red;
+}
+.shapes:after{
+	content: '';
+    position: absolute;
+    top: 258px;
+    width: -25px;
+    height: 10px;
+    border-top: 56px solid #fb1111;
+    border-right: 97px solid transparent;
+    left: 125px;
+}
