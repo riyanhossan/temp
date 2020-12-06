@@ -1,0 +1,31 @@
+Bootstrap:
+
+Framework: 
+
+HTML, CSS, JS/Jq  front end Framework....
+
+Why Bootstrap:
+1) Responsive and mobile fast design.
+	Desktop/Laptop/Tablet/Iphone/Android
+2) Fast Coding
+3) Browser Compatibility. (Mozila, Chrome, Safari, IE) 
+
+Bootstrap:
+2011. Mark otto... twitter  
+
+Twitter bootstrap
+ version: bootstrap 1.0....... Bootstrap 5.0 (Alpha)
+
+Released Version: 4.5
+
+www.getbootstrap.com
+
+
+How to start with bootstrap:
+1) Download File and include your website
+2) CDN (Content Delivery network) link
+
+
+PSD to Bootstrap (2 website)
+
+ 
