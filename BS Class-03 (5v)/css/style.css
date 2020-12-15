@@ -1,0 +1,20 @@
+.my-brand{
+	font-size: 25px;
+	color: #fff!important;
+	font-weight: 700;
+}
+.my-menu li a{
+	color: #fff!important;
+	display: block;
+	padding: 0 25px!important;
+}
+.my-menu li a:hover{
+	color: red!important;
+}
+.my-dropdown li a{
+	color: #000!important;
+}
+.my-input{
+	background-color: red;
+}
+
