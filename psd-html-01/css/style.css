@@ -1,0 +1,89 @@
+@import url('https://fonts.googleapis.com/css2?family=Open+Sans:ital,wght@0,300;0,400;0,700;1,300&display=swap');
+
+body{
+	font-family: 'Open Sans', sans-serif;
+}
+.myNav{
+	position: absolute;
+	left: 0;
+	right: 0;
+	padding: 20px 0;
+	border-bottom: 1px solid rgba(0,0,0,0.2);
+}
+.myBrand .tag-line{
+	font-size: 14px;
+    font-weight: 300;
+    font-style: italic;
+    color: #fff;
+    display: inline-block;
+    padding-left: 10px;
+}
+
+.myMenu li a{
+	font-size: 13px;
+	font-weight: 700;
+	color: #fff!important;
+    display: inline-block;
+    padding: 0 25px!important;
+    position: relative;
+}
+.myMenu li:hover a:after{
+	content: '';
+    position: absolute;
+    background-color: #fff;
+    height: 2px;
+    width: 60%;
+    left: 25px;
+    bottom: -28px;
+}
+.myMenu li a.active:after{
+	content: '';
+    position: absolute;
+    background-color: #fff;
+    height: 2px;
+    width: 60%;
+    left: 25px;
+    bottom: -28px;
+
+}
+.myForm input{
+	font-size: 13px;
+    padding: 8px 12px;
+    border-top-left-radius: 40px;
+    border-bottom-left-radius: 40px;
+    border-top-right-radius: 0px;
+    border-bottom-right-radius: 0px;
+    border:1px solid #ddd;
+    border-right: none;
+}
+.myForm input:focus{
+	outline: none;
+	box-shadow: none;
+	border:none;
+}
+.myForm button{
+	font-size: 13px;
+    padding: 8px 12px;
+    border-top-left-radius: 0px;
+    border-bottom-left-radius: 0px;
+    border-top-right-radius: 40px;
+    border-bottom-right-radius: 40px;
+    border:1px solid #ddd;
+    border-left: none;
+    background-image: none;
+    background-color: #fff;
+}
+.myForm button:focus{
+	outline: none;
+	box-shadow: none;
+}
+
+/*banner css*/
+
+.banner{
+	background: url('../img/banner.jpg') rgba(0,0,0,1);
+	background-position: center;
+	background-repeat: no-repeat;
+	background-size: cover;
+	height: 100vh;
+}
