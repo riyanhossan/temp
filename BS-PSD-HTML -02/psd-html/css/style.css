@@ -1,0 +1,63 @@
+@import url('https://fonts.googleapis.com/css2?family=Open+Sans:ital,wght@0,300;0,400;0,700;1,300&display=swap');
+
+body{
+	font-family: 'Open Sans', sans-serif;
+}
+/*header css*/
+header{
+    padding: 20px 0;
+}
+.myNav li a{
+    font-size: 25px;
+    color: #000!important;
+    display: inline-block;
+    padding: 0 20px!important;
+    transition: 0.3s;
+}
+.myNav li a:hover{
+    color: #8DCD37!important;
+}
+/*header css*/
+
+/*slider css*/
+.overlay{
+    content: '';
+    position: absolute;
+    left: 0;
+    top: 0;
+    width: 100%;
+    height: 100%;
+    background-color: rgba(67,203,131,0.5);
+}
+
+.mySliderCaption{
+    position: absolute;
+    bottom:190px;
+}
+.mySliderCaption h2{
+    font-size: 40px;
+    font-weight: 700;
+    color: #000;
+    text-transform: uppercase;
+}
+.mySliderCaption p{
+    font-size: 17px;
+    font-weight: 600;
+    color: #000;
+    text-transform: capitalize;
+    margin: 20px 0;
+}
+.mySliderCaption a{
+    font-size: 18px;
+    color: #000;
+    background-color: #fff;
+    display: inline-block;
+    padding: 12px 40px;
+    text-decoration: none;
+    border-radius:5px;
+    transition: 0.3s;
+}
+.mySliderCaption a:hover{
+    color: #8DCD37;
+}
+/*slider css*/
