@@ -1,0 +1,12 @@
+Javascript:
+
+Programming Language.
+Website:
+How Js:
+
+<script src="path"></script>
+
+Where To:
+
+1) head section
+2) body Section
