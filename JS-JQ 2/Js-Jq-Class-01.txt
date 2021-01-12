@@ -1,0 +1,89 @@
+Javascript:
+
+Programming Language.
+Website:
+How Js:
+
+<script src="path"></script>
+
+Where To:
+
+1) head section
+2) body Section
+
+
+
+variable:
+
+operator:
+
+
+1) Mathmatical Operator: +, -, *, /, %
+2) Assignment Operator: =, +=,-=,*=,/=
+
+3) Comparision Operatro: <, >,<=, >=, ==, !=
+
+4) logical Operator: AND(&&), OR(||), NOT(!)
+
+
+JS Conditional:
+
+1) if statment
+
+	syntax: 
+		if(condition){
+			//code will executed if condition is true
+		}
+
+2) if ---else statment
+
+		if(condition){
+			//code will executed if condition is true
+		}
+		else{
+			//code will executed if condition is false
+		}
+
+
+3) elseif stament
+
+	if(condition){
+			//code will executed if condition is true
+		}
+	elseif(condition){
+			//code will executed if condition is true
+		}
+
+		elseif(condition){
+			//code will executed if condition is true
+		}
+
+
+	elseif(condition){
+			//code will executed if condition is true
+		}
+
+		else{
+		//code will executed if above all conditions are false
+		}
+
+
+JS Looping:
+
+1) for loop
+	syntax:
+		for(initialize,condition,increment/decrement){
+			//code will executed if condition is true;
+
+		}
+
+2) while loop 
+
+
+
+
+
+
+
+
+
