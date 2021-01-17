@@ -1,0 +1,10 @@
+Jquery Plugins:
+
+
+Jquery UI:
+
+https://plugins.jquery.com/tag/ui/
+
+Jquery Plugin Script:
+
+https://www.jqueryscript.net/
